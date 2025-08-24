@@ -1,9 +1,4 @@
-# superannuation-gender-gap-analysis
-*Analysis of gendered superannuation balances over lifetime using ATO sample data*
-
----
-
-## A Husband is Not a Retirement Plan: A Gender-Based Analysis of Australia's Retirement System  
+# A Husband is Not a Retirement Plan: A Gender-Based Analysis of Australia's Retirement System  
 
 This project evaluates structural inequalities in Australia’s retirement income system, focusing on how **gender, occupation, and partner status** interact to shape lifetime superannuation outcomes. It was originally completed as part of an ANU data evaluation assignment, where it received a High Distinction.  
 
