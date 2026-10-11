@@ -53,8 +53,6 @@ This analysis uses the **ATO 2% Sample Unit Record File (2013–14)** to investi
 
 ---
 
----
-
-## 🏆 Acknowledgements  
-- Developed as part of ANU coursework on **policy evaluation and data analysis**.  
+## Acknowledgements  
+- Developed as part of ANU coursework on **policy evaluation and data analysis** (SOCR3001 @ ANU)  
 - Received a **High Distinction** grade.
